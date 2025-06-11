@@ -1,0 +1,38 @@
+{
+  "name": "webdev-checklist",
+  "version": "1.0.0",
+  "description": "A ready-to-use deployment checklist for websites that installs as a markdown file.",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
+  "bin": {
+    "webdev-checklist": "./bin/cli.js"
+  },
+  "keywords": [
+    "webdev",
+    "checklist",
+    "deployment",
+    "seo",
+    "performance",
+    "security",
+    "frontend",
+    "npm",
+    "markdown",
+    "launch",
+    "website"
+  ],
+  "author": "Muhammad Hafijur",
+  "license": "MIT",
+  "files": [
+    "checklist.md",
+    "postinstall.js",
+    "bin/cli.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadhafijur/webdev-checklist.git"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
