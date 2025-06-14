@@ -1,6 +1,6 @@
 {
   "name": "webdev-checklist",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A ready-to-use deployment checklist for websites that installs as a markdown file.",
   "main": "bin/cli.js",
   "bin": {
