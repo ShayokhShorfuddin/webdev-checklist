@@ -1,10 +1,9 @@
 # ✅ WebDev Checklist
 
-A ready-to-use **website deployment checklist** that installs a comprehensive Markdown file (`WEBDEV-CHECKLIST.md`) directly into your project root.
+A ready-to-use **website deployment checklist** that installs a simple Markdown file (`WEBDEV-CHECKLIST.md`) directly into your project root.
 
 Perfect for frontend and fullstack developers who want to ensure best practices across performance, SEO, accessibility, and security — **before launching a site.**
 
----
 
 ## 📦 Installation
 
@@ -14,7 +13,6 @@ npx webdev-checklist
 
 This will automatically add `WEBDEV-CHECKLIST.md` into your project root.
 
----
 
 ## 📋 What’s Included
 
@@ -32,7 +30,6 @@ The checklist covers:
 
 > Designed to be readable, actionable, and production-focused.
 
----
 
 ## 💡 Usage
 
@@ -44,7 +41,6 @@ code WEBDEV-CHECKLIST.md
 
 Mark the items as complete as you progress.
 
----
 
 ## 📎 Example Output
 
@@ -81,7 +77,6 @@ Inside `WEBDEV-CHECKLIST.md`:
 
 *(... and more sections continue in the actual file)*
 
----
 
 ## ⭐ Show Your Support
 
